@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on Flutter Stack Projects<br>🤝 I’m looking for help with Flutter Development Internships<br>🌱 I’m currently learning C++ Programming & Competitive Programming<br>⚡ Fun fact: Always ready to learn new technologies
+🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on Flutter Stack Projects<br>🤝 I’m looking for help with Flutter Development Internships<br>🌱 I’m currently learning React Developement, C++ & Competitive Programming<br>⚡ Fun fact: Always ready to learn new technologies
 
 
 ## 🌐 Socials:
